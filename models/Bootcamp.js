@@ -130,3 +130,8 @@ next()
 })
 
 module.exports = mongoose.model('Bootcamp', BootcampSchema);
+//git init
+//git add .
+//git commit -m "New commited files"
+//git status
+//git push https://github.com/IdrDe/Rep.git master
